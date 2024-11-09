@@ -1,1 +1,2 @@
 # Predict-Energy-Consumption
+L'analyse de la dynamique de la consommation d'énergie quotidienne repose sur des facteurs temporels (heure, jour de la semaine, saison) et parfois sur des événements spécifiques (jours fériés, périodes de forte demande) qui influencent les comportements de consommation.L'utilisation de modèles de régression est essentielle pour modéliser ces fluctuations et prédire les tendances futures
